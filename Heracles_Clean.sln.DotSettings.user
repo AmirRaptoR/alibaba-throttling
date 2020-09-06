@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25da59fc_002Db234_002D4950_002D8f9a_002D5f85a9dc0bfa/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ShouldParseCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A0EA9C3-9434-49FB-BAD0-0248ED7A7AD8::.NETCoreApp,Version=v3.1::Alibaba.Heracles.Domain.UnitTests.ValueObjects.LimitTests.ShouldParseCorrectly&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A0EA9C3-9434-49FB-BAD0-0248ED7A7AD8::.NETCoreApp,Version=v3.1::Alibaba.Heracles.Domain.UnitTests.ValueObjects.LimitTests.ShouldThrowExceptionOnInvalidData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::99FDD535-15CD-42A9-869F-EAB97D68D460::.NETCoreApp,Version=v3.1::Alibaba.Heracles.Application.UnitTests.Common.Mappings.MappingTests.ShouldSupportMappingFromSourceToDestination&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d525cef_002D55d4_002D45a6_002Db8b3_002D81b8da9b1e89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LimitTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::1A0EA9C3-9434-49FB-BAD0-0248ED7A7AD8::.NETCoreApp,Version=v3.1::Alibaba.Heracles.Domain.UnitTests.ValueObjects.LimitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::99FDD535-15CD-42A9-869F-EAB97D68D460::.NETCoreApp,Version=v3.1::Alibaba.Heracles.Application.UnitTests.Common.Mappings.MappingTests.ShouldSupportMappingFromSourceToDestination&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Alibaba.Heracles.Infrastructure</RootNamespace>
+        <AssemblyName>Alibaba.Heracles.Infrastructure</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Application\Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="3.1.7" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.7" />
+      <PackageReference Include="ServiceStack.Redis" Version="5.9.2" />
+    </ItemGroup>
+
+</Project>
